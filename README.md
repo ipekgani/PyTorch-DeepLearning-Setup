@@ -11,4 +11,4 @@ python train.py --dataroot datasets --dataset_mode example --model example --val
 
 ## Soon
 
-I will add an augmentation datalaoder and possibly also logging stuff.
+I will add an augmentation dataloader and possibly also logging stuff.
